@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My Profile
 
-You can use the [editor on GitHub](https://github.com/BNyathi/Welcome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Curriculum Vitae for Blessing Nyathi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Motivation letter
 
 ```markdown
-Syntax highlighted code block
+I am a focused individual who believes in goal oriented targets to achieve both organizational and personal goals.
+I have very good communication and people skills due to interaction with a lot of end users in my line of work. I am bilingual in English and have developed an appreciation of diverse cultures. I attained a Diploma in Software Engineering and have completed the Cisco Certified Network Associate with Business & Computing Examinations (London). I have been involved in challenging projects in my previous firms of employment with Cutlet Investments, S.I.T.A and Zimbabwe Leaf Tobacco (Pvt) Ltd. Examples include the S.I.T.A call centre support project which involved rollout and setup of computer labs of over a network of up to 500 users. I am also a member of the Institute of Information Technology Professionals South Africa.
+I hope to further my knowledge and growth through more exposure in the IT industry and study further with time. My ultimate goal is to be able to start my own IT firm after gaining more experience and depth. My career path is to focus towards IT project development and networking with a bias towards CISCO Hardware. I am very technically inclined with a strong understanding of networking, routing protocols and server infrastructures. With a stern foundation of computer architecture and hardware construction I have worked a lot on the windows platform including server 2003 to most windows operating systems. My experience has given me a strong bias towards proficient troubleshooting skills, project design development and implementation and also a general good customer service approach to clients. I am currently in search of employment in an organization where I can learn and grow in any of the following titles: Network Engineer, Network Administrator, Network Installations Engineer, IT Technician, IT Engineer, IT Security Administrator, Systems Analyst, Network (LAN) Administrator or Desktop Support Engineer.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I believe I can grow within your firm and make a meaningful contribution. Good leadership and attainable objectives have always been a motivating factor for me. I hope to grow in culture, spirit, knowledge and depth as an individual by having a point of orientation and growth when I get a chance to migrate and settle in a different and challenging environment.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact details
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BNyathi/Welcome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(https://github.com/BNyathi/Welcome/contact)
