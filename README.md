@@ -14,4 +14,4 @@ I believe I can grow within your firm and make a meaningful contribution. Good l
 
 ### Contact details
 
-(https://github.com/BNyathi/Welcome/contact)
+(https://github.com/BNyathi/Welcome/blob/master/contact.html)
